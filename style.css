@@ -310,3 +310,54 @@ grid-area: three;
 
 
 /* end grid style */
+
+
+/* footer */
+footer{
+    margin-top: 130px;
+    background: #FFF8F3;
+    
+}
+.footer-parent{
+    display: flex;
+    justify-content: space-between;
+    text-align: start;
+    height: 780px;
+    padding: 130px;
+}
+
+footer form input{
+    border: none;
+    outline: none;
+    display: block;
+    background-color: white;
+    padding: 18px 8px;
+    border-radius: 8px;
+    width: 100%;
+    margin: 20px 0;
+}
+.form-right{
+    width: 50%;
+    margin-bottom: 30px;
+}
+.form-right textarea{
+    width: 100%;
+    padding: 18px;
+    border: none;
+    margin-bottom: 20px;
+}
+
+.footer-left-parent h2{
+    font-width: bold;
+    font-size: 35px;
+
+}
+
+.footer-left-parent p{
+     margin-bottom: 30px;
+     width: 80%;
+     
+}
+.footer-left-parent img{
+    padding: 10px;
+}
