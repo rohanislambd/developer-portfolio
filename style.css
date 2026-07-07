@@ -78,6 +78,9 @@ ul{
 ul li a{
     text-decoration: none;
 }
+.bg-color{
+    background: #FFF8F3;
+}
 
 
 
@@ -123,5 +126,35 @@ ul li a{
 .hero-left-first-btn {
     margin-right: 30px;
 }
+/* hero style end */
 
+/* about style start */
+.about-parent{
+    margin-top: 130px;
+    padding: 131px 157px;
+    text-align: center;
+}
 
+.about-parent-heading{
+  font-size: 35px;
+  margin-bottom: 30px;
+}
+.about-parent p{
+ font-weight: 20px;
+}
+
+.about-box-parent{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+
+}
+.about-box-parent h2{
+    color: #757575;
+    font-size: 20px;
+
+}
+.about-box-parent p{
+    font-weight: bold;
+    font-size: 20px;
+}
