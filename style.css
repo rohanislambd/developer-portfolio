@@ -199,3 +199,48 @@ ul li a{
     color: #757575;
 }
 /* end what i do */
+
+/* start resume summary style */
+ .resume-parent{
+   margin-top: 130px;
+    text-align: center;
+
+ }
+ .resume-parent-left h2{
+    font-size: 25px;
+    font-weight: bold;
+    
+ }
+ .resume-haading{
+    margin-bottom: 113px;
+ }
+ .resume-box-parent{
+    display: flex;
+    gap: 70px;
+    text-align: start;
+ }
+.resume-box-border{
+    border-bottom: 2px solid rgba(0, 0, 0, 0.308);
+}
+ .resume-box h3{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 20px;
+    color: #474747;
+    
+ }
+
+ .resume-box-des{
+    font-size: 16px;
+    color:#757575 ;
+    margin: 30px 0;
+ }
+ .resume-box-education{
+     margin-top: 10px;
+     font-size: 20px;
+     color: #757575;
+ }
+
+ /* end resume style */
+
+ 
