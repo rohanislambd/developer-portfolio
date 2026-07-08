@@ -342,13 +342,13 @@ footer form input{
 }
 .form-right textarea{
     width: 100%;
-    padding: 18px;
+    padding: 13px;
     border: none;
     margin-bottom: 20px;
 }
 
 .footer-left-parent h2{
-    font-width: bold;
+    font-weight: bold;
     font-size: 35px;
 
 }
@@ -356,8 +356,13 @@ footer form input{
 .footer-left-parent p{
      margin-bottom: 30px;
      width: 80%;
+     margin-top: 35px;
      
 }
 .footer-left-parent img{
     padding: 10px;
+}
+.form-right h2{
+    font-size: 35px;
+    font-weight: bold;
 }
